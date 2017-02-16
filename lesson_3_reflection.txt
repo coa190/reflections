@@ -38,4 +38,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Creating separate branch is safer because it 
+    avoids conflicts and lets collaborators to
+    evaluate my suggestion. Commiting to the master
+    would be just more simple procedure.
