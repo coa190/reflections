@@ -22,6 +22,10 @@ organized? How would branches help?
 	the old version too for further improvements.
 
 How do the diagrams help you visualize the branch structure?
+	By showing relation of two or more branches
+	to eachother. It's accomplished by connecting 
+	first commit on every new branch with it's parent
+	commint on the older branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
